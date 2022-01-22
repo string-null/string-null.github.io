@@ -29,7 +29,7 @@ comments: true
 * Edit `index.md` file in `about` folder.
 * Change repo name to `YourUserName.github.io`    
      
-That's all.
+That's all. Now go to the Post Install Steps
 
 ## Preview
 
@@ -50,8 +50,8 @@ That's all.
       
 See a [live version of Moon](http://taylantatli.github.io/Moon) hosted on GitHub.      
 
-## Site Setup
-A quick checklist of the files you’ll want to edit to get up and running.    
+## Post Install Steps
+A quick post install of the files/configuration you’ll will need to install to get up and running correctly.    
 
 ### Site Wide Configuration
 `_config.yml` is your friend. Open it up and personalize it. Most variables are self explanatory but here's an explanation of each if needed:
