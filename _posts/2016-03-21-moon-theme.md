@@ -20,15 +20,14 @@ comments: true
  I'm a spanish student learning optimization of operating systems, web development and Lua
 
 ## What is MalaOS?
-* MalaOS is an optimized operating system dedicated for people who have average, low-resource PCs that often suffer from slow performance, stutters. This system has 
-* additional tools that it will be good for us to have to optimize our PC and also for people who play video games since MalaOS will allow us to optimize them.
+* MalaOS is an optimized operating system dedicated for people who have average, low-resource PCs that often suffer from slow performance, stutters. This system has additional tools that it will be good for us to have to optimize our PC and also for people who play video games since MalaOS will allow us to optimize them.
       
 ## Installation
 * Download [MalaOS Iso](https://github.com/TaylanTatli/Moon/fork)
 * Download [Rufus](https://rufus.ie/)
-* On rufus select `MalaOS.iso` file.
-* Remove sample posts from `_posts` folder and add yours.
-* Edit `index.md` file in `about` folder.
+* Open rufus and select `MalaOS.iso` file. Partition scheme in `GPT` and Target System `UEFI`, File System `FAT32` and Cluster Size `default`.
+* Click the `start` button and wait.
+* Once the USB is booted, we will proceed to install the operating system. For this we need to enter our BIOS. How do we get in? First we must restart the PC and before it turns on, press the DEL or F12 key until the BIOS comes out.
 * Change repo name to `YourUserName.github.io`    
      
 That's all. Now go to the Post Install Steps
