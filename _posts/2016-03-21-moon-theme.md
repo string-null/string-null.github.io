@@ -32,6 +32,19 @@ comments: true
      
 That's all. Now go to the Post Install Steps
 
+     
+
+## Post Install Steps
+A quick post install of the files/configuration you’ll will need to install to get up and running correctly.    
+Once the system is installed you must do some steps that are very important. I will explain the function of some tools that you should use and if you are interested in knowing more about each tool I will leave you the download link of the guide
+
+#### title
+
+The title of your site... shocker!
+
+Example `title: My Awesome Site`
+
+
 ## Preview
 
 {% capture images %}
@@ -49,17 +62,7 @@ That's all. Now go to the Post Install Steps
 {% endcapture %}
 {% include gallery images=images caption="Moon Theme on Small Screen Size" cols=2 %}      
       
-See a [live version of Moon](http://taylantatli.github.io/Moon) hosted on GitHub.      
-
-## Post Install Steps
-A quick post install of the files/configuration you’ll will need to install to get up and running correctly.    
-Once the system is installed you must do some steps that are very important. I will explain the function of some tools that you should use and if you are interested in knowing more about each tool I will leave you the download link of the guide
-
-#### title
-
-The title of your site... shocker!
-
-Example `title: My Awesome Site`
+See a [live version of Moon](http://taylantatli.github.io/Moon) hosted on GitHub. 
 
 
 ### Comments
