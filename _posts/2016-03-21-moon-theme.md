@@ -27,8 +27,8 @@ comments: true
 * Download [Rufus](https://rufus.ie/)
 * Open rufus and select `MalaOS.iso` file. Partition scheme in `GPT` and Target System `UEFI`, File System `FAT32` and Cluster Size `default`.
 * Click the `start` button and wait.
-* Once the USB is booted, we will proceed to install the operating system. For this we need to enter our BIOS. How do we get in? First we must restart the PC and before it turns on, press the DEL or F12 key until the BIOS comes out.
-* Change repo name to `YourUserName.github.io`    
+* Once the USB is booted, we will proceed to install the operating system. For this we need to enter to boot the computer with the USB, we have to identify which is the boot key with USB of our computer, in my case it is F12.
+* Now the computer boots with a windows installation interface but we will be installing MalaOS. Just follow the steps the interface/GUI gives you    
      
 That's all. Now go to the Post Install Steps
 
