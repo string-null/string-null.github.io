@@ -13,13 +13,15 @@ tag:
 comments: true
 ---
 
-![Moon Homepage](https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png)    
+
     
 <center><b>MalaOS</b> an optimized operative system</center>
      
  I'm a spanish student learning optimization of operating systems, web development and Lua
 
-   
+## What is MalaOS?
+* MalaOS is an optimized operating system dedicated for people who have average, low-resource PCs that often suffer from slow performance, stutters. This system has 
+* additional tools that it will be good for us to have to optimize our PC and also for people who play video games since MalaOS will allow us to optimize them.
       
 ## Installation
 * Download [MalaOS Iso](https://github.com/TaylanTatli/Moon/fork)
